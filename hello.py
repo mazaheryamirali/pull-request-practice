@@ -1,1 +1,2 @@
-print("hello world")
+men = 'amir'
+women = 'mina'
